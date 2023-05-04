@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm **Bruno Vidal**, Junior React/Node.js Full-Stack Developer
+- 😄 Pronouns: he/him
+- I'm currently working in an Inventory Management System with React
+- Studying about Next.js and TypeScript
+- Graduated in Computer Programming at Niagara College Canada
+
+Here you can see some of my projects.
+
 <!--
 **bsatovidal1/bsatovidal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
